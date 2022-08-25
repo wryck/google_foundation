@@ -27,7 +27,7 @@ https://www.cloudskillsboost.google/course_templates/177
 https://www.cloudskillsboost.google/quests/120](https://www.cloudskillsboost.google/quests/120
 
 
-2 - Roteiro criado por: **Paulo Brandão**
+2 - Perform Foundational Infraestructure Tasks
 
 Link da Quest: [https://www.cloudskillsboost.google/quests/118](https://www.cloudskillsboost.google/quests/118)
 
