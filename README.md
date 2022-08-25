@@ -3,7 +3,7 @@ Apoio às turmas cloud
 
 Acessar Form para cadastro
 
-bit.ly/3zONCuK
+https://bit.ly/3zONCuK
 
 
 
