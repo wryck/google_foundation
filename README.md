@@ -46,5 +46,9 @@ Link da Quest: [https://www.cloudskillsboost.google/quests/128](https://www.clou
 
 4 -  Perform Foundational Data, ML and AI Tasks (16 Créditos)
 
-Link da Quest: [https://www.cloudskillsboost.google/quests/117](https://www.cloudskillsboost.google/quests/117)
+Link da Quest: 
+https://www.cloudskillsboost.google/quests/117]
+https://www.cloudskillsboost.google/quests/117
+
+https://www.cloudskillsboost.google/course_templates/177
 
