@@ -45,7 +45,14 @@ Link da Quest: [https://www.cloudskillsboost.google/quests/128](https://www.clou
 
 
 4 -  Perform Foundational Data, ML and AI Tasks (16 Créditos)
+ https://www.cloudskillsboost.google/quests/117 
 
-Link da Quest: 
+
+Estudo 
 https://www.cloudskillsboost.google/course_templates/177
 
+
+
+
+Oportunidade SENAI.. CADASTRE suas certificações (ou link de perfil público)
+ https://oportunidades.sp.senai.br.
