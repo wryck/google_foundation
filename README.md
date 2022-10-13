@@ -37,7 +37,7 @@ https://go.qwiklabs.com/gwg
 
 | 2 - Perform Foundational Infraestructure Tasks (8 Créditos) | https://www.cloudskillsboost.google/quests/118 |
 
-| 3 - Build and Secure Networks (28 Créditos) | |  https://www.cloudskillsboost.google/quests/128 |
+| 3 - Build and Secure Networks (28 Créditos) | https://www.cloudskillsboost.google/quests/128 |
 
 | 4 -  Perform Foundational Data, ML and AI Tasks (16 Créditos) | https://www.cloudskillsboost.google/quests/117  |
 
