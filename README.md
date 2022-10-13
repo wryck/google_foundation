@@ -32,6 +32,7 @@ https://www.cloudskillsboost.google/course_templates/177
 https://go.qwiklabs.com/gwg
 
 
+# Laboratórios para certifcação (badges)
 | Quest | Créditos | Link |
 | --- | --- | ---|
 | 1 - Create and Manage Cloud Resources | (6 créditos) | https://www.cloudskillsboost.google/quests/120 |
