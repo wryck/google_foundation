@@ -32,7 +32,8 @@ https://www.cloudskillsboost.google/course_templates/177
 https://go.qwiklabs.com/gwg
 
 
-| Quest | Link|
+| Quest | Link |
+
 | 1 - Create and Manage Cloud Resources (6 créditos) | https://www.cloudskillsboost.google/quests/120 |
 
 | 2 - Perform Foundational Infraestructure Tasks (8 Créditos) | https://www.cloudskillsboost.google/quests/118 |
