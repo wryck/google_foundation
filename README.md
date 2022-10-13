@@ -15,7 +15,6 @@ https://bit.ly/3zONCuK
 
 Acessar Primeiro Lab
 
-""""https://www.cloudskillsboost.google/catalog_lab/1281?qlcampaign=4p-EDUCR-GCCFSENAISP_AUG22-82"""""
 
 https://www.cloudskillsboost.google/catalog_lab/1281?qlcampaign=4p-EDUCR-GCCFSENAISP_OCT22-27
 
