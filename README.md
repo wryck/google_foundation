@@ -34,7 +34,7 @@ https://go.qwiklabs.com/gwg
 
 | Quest | Link |
 
-| --- | --- |
+| -- | -- |
 
 | 1 - Create and Manage Cloud Resources (6 créditos) | https://www.cloudskillsboost.google/quests/120 |
 
