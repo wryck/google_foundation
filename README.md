@@ -13,7 +13,7 @@ https://bit.ly/3zONCuK
 
 
 
-Acessar Primeiro Lab
+Acessar Primeiro Lab - outubro
 
 
 https://www.cloudskillsboost.google/catalog_lab/1281?qlcampaign=4p-EDUCR-GCCFSENAISP_OCT22-27
@@ -25,7 +25,7 @@ https://www.cloudskillsboost.google
 
 
 
-Link para acessar o Curso:
+Link para acessar o Curso - Fazer em casa:
 
 https://www.cloudskillsboost.google/course_templates/177
 
@@ -54,11 +54,9 @@ Link da Quest: [https://www.cloudskillsboost.google/quests/128](https://www.clou
  https://www.cloudskillsboost.google/quests/117 
 
 
-Estudo 
-https://www.cloudskillsboost.google/course_templates/177
-
-
-
-
 Oportunidade SENAI.. CADASTRE suas certificações (ou link de perfil público)
- https://oportunidades.sp.senai.br.
+ https://oportunidades.sp.senai.br
+ 
+Pequiquisa de Satisfação
+https://bit.ly/3Qsenaiosasco
+
