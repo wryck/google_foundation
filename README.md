@@ -31,6 +31,9 @@ https://www.cloudskillsboost.google/course_templates/177
 
 https://go.qwiklabs.com/gwg
 
+Desafios
+https://github.com/wryck/desafiosgoogle
+
 
 # Laboratórios para certifcação (badges)
 | Quest | Créditos | Link |
