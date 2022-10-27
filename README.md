@@ -4,6 +4,11 @@ Drive
 
 https://drive.google.com/drive/folders/1nfCXyFa_ftI4ChwLFch8VPcTPFUu_4_j?usp=sharing
 
+
+Notion
+
+https://www.notion.so/Google-Foundations-407a558a0b104b318b0b18214999a7ff
+
 Apoio às turmas cloud google fundation
 E-mail Suporte  --  support@qwiklabs.com
 
