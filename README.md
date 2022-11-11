@@ -28,13 +28,6 @@ Acessar Form para cadastro
 https://bit.ly/3zONCuK
 
 
-
-Acessar Primeiro Lab - outubro
-
-
-https://www.cloudskillsboost.google/catalog_lab/1281?qlcampaign=4p-EDUCR-GCCFSENAISP_OCT22-27
-
-
 link do skillboosts
 
 https://www.cloudskillsboost.google
