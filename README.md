@@ -61,7 +61,7 @@ https://oportunidades.sp.senai.br
  
 Pequisa de Satisfação
 
-https://bit.ly/3Qsenaiosasco
+https://docs.google.com/forms/d/e/1FAIpQLSe_-UsWoMyD2w_XvgCbwxwgxktoflbt_6zKFalaChKXGkZ0YQ/viewform
 
 Sapes Senai
 
