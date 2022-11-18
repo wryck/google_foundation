@@ -54,12 +54,18 @@ https://github.com/wryck/desafiosgoogle
 
 
 Oportunidade SENAI.. CADASTRE suas certificações (ou link de perfil público)
- https://oportunidades.sp.senai.br
+
+https://oportunidades.sp.senai.br
+
+
  
 Pequisa de Satisfação
+
 https://bit.ly/3Qsenaiosasco
 
+Sapes Senai
 
+https://sapes.senai.br/questionario
 
 Pegar créditos 
 
