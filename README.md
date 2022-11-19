@@ -70,3 +70,12 @@ https://sapes.senai.br/questionario
 Pegar créditos 
 
  https://www.cloudskillsboost.google/focuses/2794?parent=catalog&qlcampaign=4p-EDUCR-GCCFSENAISP_NOV22-92 
+ 
+ 
+ 
+ 
+ 
+ Desafio 4 Ai
+ 
+ 
+ https://witty-cornet-caa.notion.site/4-Integrate-with-Machine-Learning-API-s-31-Cr-ditos-fbce8fd0edd04b2ebc902c1ee28ae11a
