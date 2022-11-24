@@ -69,6 +69,8 @@ https://sapes.senai.br/questionario
 
 Pegar créditos 
 
+https://www.cloudskillsboost.google/focuses/2794?parent=catalog&qlcampaign=4p-EDUCR-GCCFSENAISP_DEC22-19
+
  https://www.cloudskillsboost.google/focuses/2794?parent=catalog&qlcampaign=4p-EDUCR-GCCFSENAISP_NOV22-92 
  
  
