@@ -1,7 +1,7 @@
-# SEGURE A TECLA "Ctrl" AO CLICAR NOS LINKS
+# Para uma melhor experiência segue a tecla CTRL ao clicar nos links
 
 
-#Google Cloud
+# Google Cloud
 
 Drive    
 
