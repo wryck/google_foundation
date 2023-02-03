@@ -3,26 +3,6 @@
 
 # Google Cloud
 
-Drive    
-
-https://drive.google.com/drive/folders/1nfCXyFa_ftI4ChwLFch8VPcTPFUu_4_j?usp=sharing
-
-
-Notion
-
-https://www.notion.so/Google-Foundations-407a558a0b104b318b0b18214999a7ff
-
-
-------------------##################-----------------
-
-DESAFIO 04
-
-https://github.com/wryck/desafio04/blob/main/README.md?plain=1
-
-
---------------------##############----------------------
-
-
 Apoio às turmas cloud google fundation
 E-mail Suporte  --  support@qwiklabs.com
 
@@ -56,6 +36,37 @@ https://github.com/wryck/desafiosgoogle
 | 4 -  Perform Foundational Data, ML and AI Tasks | (16 Créditos) | https://www.cloudskillsboost.google/quests/117  |
 
 
+
+# APOIO
+
+------------------##################-----------------
+
+Drive    
+
+https://drive.google.com/drive/folders/1nfCXyFa_ftI4ChwLFch8VPcTPFUu_4_j?usp=sharing
+
+
+Notion
+
+https://www.notion.so/Google-Foundations-407a558a0b104b318b0b18214999a7ff
+
+
+DESAFIO 04
+
+https://github.com/wryck/desafio04/blob/main/README.md?plain=1
+
+Desafio 4 Ai 
+ 
+https://witty-cornet-caa.notion.site/4-Integrate-with-Machine-Learning-API-s-31-Cr-ditos-fbce8fd0edd04b2ebc902c1ee28ae11a
+
+ 
+Vídeos auxiliares
+ 
+https://www.youtube.com/@mimeografando3279/videos
+
+--------------------##############----------------------
+
+
 Oportunidade SENAI.. CADASTRE suas certificações (ou link de perfil público)
 
 https://oportunidades.sp.senai.br
@@ -67,12 +78,5 @@ Pequisa de Satisfação
 https://docs.google.com/forms/d/e/1FAIpQLSe_-UsWoMyD2w_XvgCbwxwgxktoflbt_6zKFalaChKXGkZ0YQ/viewform 
 
 
- Desafio 4 Ai 
- 
- https://witty-cornet-caa.notion.site/4-Integrate-with-Machine-Learning-API-s-31-Cr-ditos-fbce8fd0edd04b2ebc902c1ee28ae11a
- 
- 
- Vídeos auxiliares
- 
- https://www.youtube.com/@mimeografando3279/videos
+
 
