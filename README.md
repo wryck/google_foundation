@@ -20,9 +20,6 @@ https://www.cloudskillsboost.google/course_templates/177
 
 https://go.qwiklabs.com/gwg
 
-Desafios
-https://github.com/wryck/desafiosgoogle
-
 
 # Laboratórios para certifcação (badges)
 | Quest | Créditos | Link |
@@ -48,11 +45,15 @@ Notion
 https://www.notion.so/Google-Foundations-407a558a0b104b318b0b18214999a7ff
 
 
-DESAFIO 04
+Desafios 01
+https://github.com/wryck/desafiosgoogle
+
+
+Desafio 04
 
 https://github.com/wryck/desafio04/blob/main/README.md?plain=1
 
-Desafio 4 Ai 
+Desafio 04 Ai 
  
 https://witty-cornet-caa.notion.site/4-Integrate-with-Machine-Learning-API-s-31-Cr-ditos-fbce8fd0edd04b2ebc902c1ee28ae11a
 
@@ -63,11 +64,11 @@ https://www.youtube.com/@mimeografando3279/videos
 
 --------------------##############----------------------
 
+# Mais ...
 
 Oportunidade SENAI.. CADASTRE suas certificações (ou link de perfil público)
 
 https://oportunidades.sp.senai.br
-
 
  
 Pequisa de Satisfação
