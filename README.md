@@ -64,8 +64,9 @@ Pequisa de Satisfação
 https://docs.google.com/forms/d/e/1FAIpQLSe_-UsWoMyD2w_XvgCbwxwgxktoflbt_6zKFalaChKXGkZ0YQ/viewform 
  
  
- 
- Desafio 4 Ai
- 
+ Desafio 4 Ai 
  
  https://witty-cornet-caa.notion.site/4-Integrate-with-Machine-Learning-API-s-31-Cr-ditos-fbce8fd0edd04b2ebc902c1ee28ae11a
+
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
