@@ -3,8 +3,6 @@
 
 # Google Cloud
 
-Apoio às turmas cloud google fundation
-E-mail Suporte  --  support@qwiklabs.com
 
 Acessar Form para cadastro
 
@@ -14,7 +12,6 @@ https://bit.ly/3zONCuK
 link do skillboosts
 
 https://www.cloudskillsboost.google
-
 
 
 Link para acessar o Curso - Fazer em casa:
@@ -78,5 +75,7 @@ Pequisa de Satisfação
 https://docs.google.com/forms/d/e/1FAIpQLSe_-UsWoMyD2w_XvgCbwxwgxktoflbt_6zKFalaChKXGkZ0YQ/viewform 
 
 
+Apoio às turmas cloud google fundation
 
+E-mail Suporte  --  support@qwiklabs.com
 
