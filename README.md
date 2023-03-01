@@ -46,17 +46,18 @@ https://www.youtube.com/@mimeografando3279/videos
 
 # Mais ...
 
-3Qs Senai (Fazer todas sextas-feiras/sábados)
-http://bit.ly/3Qsenaiosasco
+#3Qs Senai (Fazer todas sextas-feiras/sábados)
+
+# http://bit.ly/3Qsenaiosasco
 
 Oportunidade SENAI.. CADASTRE suas certificações (ou link de perfil público)
 
 https://oportunidades.sp.senai.br
 
  
-Pequisa de Satisfação
+# Pequisa de Satisfação
 
-https://docs.google.com/forms/d/e/1FAIpQLSe_-UsWoMyD2w_XvgCbwxwgxktoflbt_6zKFalaChKXGkZ0YQ/viewform 
+# https://bit.ly/ps-senaiosasco 
 
 
 E-mail Suporte  --  support@qwiklabs.com
