@@ -4,7 +4,7 @@
 # Google Cloud
 
 
-Acessar Form para cadastro
+# Acessar Form para cadastro
 
 https://bit.ly/3zONCuK
 
@@ -14,9 +14,9 @@ link do skillboosts
 https://www.cloudskillsboost.google
 
 
-Link para acessar o Curso - Fazer em casa:
+# Link para acessar o Curso - Fazer em casa:
 
-# https://go.qwiklabs.com/gwg
+https://go.qwiklabs.com/gwg
 
 
 # Laboratórios para certifcação (badges)
@@ -46,7 +46,7 @@ https://www.youtube.com/@mimeografando3279/videos
 
 # Mais ...
 
-#3Qs Senai (Fazer todas sextas-feiras/sábados)
+# 3Qs Senai (Fazer todas sextas-feiras/sábados)
 
 # http://bit.ly/3Qsenaiosasco
 
