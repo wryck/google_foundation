@@ -16,9 +16,7 @@ https://www.cloudskillsboost.google
 
 Link para acessar o Curso - Fazer em casa:
 
-https://www.cloudskillsboost.google/course_templates/177
-
-https://go.qwiklabs.com/gwg
+# https://go.qwiklabs.com/gwg
 
 
 # Laboratórios para certifcação (badges)
@@ -40,24 +38,6 @@ Drive
 https://drive.google.com/drive/folders/1nfCXyFa_ftI4ChwLFch8VPcTPFUu_4_j?usp=sharing
 
 
-Notion
-
-https://www.notion.so/Google-Foundations-407a558a0b104b318b0b18214999a7ff
-
-
-Desafios 01
-https://github.com/wryck/desafiosgoogle
-
-
-Desafio 04
-
-https://github.com/wryck/desafio04/blob/main/README.md?plain=1
-
-Desafio 04 Ai 
- 
-https://witty-cornet-caa.notion.site/4-Integrate-with-Machine-Learning-API-s-31-Cr-ditos-fbce8fd0edd04b2ebc902c1ee28ae11a
-
- 
 Vídeos auxiliares
  
 https://www.youtube.com/@mimeografando3279/videos
@@ -65,6 +45,9 @@ https://www.youtube.com/@mimeografando3279/videos
 --------------------##############----------------------
 
 # Mais ...
+
+3Qs Senai (Fazer todas sextas-feiras/sábados)
+http://bit.ly/3Qsenaiosasco
 
 Oportunidade SENAI.. CADASTRE suas certificações (ou link de perfil público)
 
