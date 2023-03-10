@@ -55,7 +55,7 @@ Oportunidade SENAI.. CADASTRE suas certificações (ou link de perfil público)
 https://oportunidades.sp.senai.br
 
  
-# Pequisa de Satisfação
+# Pesquisa de Satisfação
 
 # https://bit.ly/ps-senaiosasco 
 
