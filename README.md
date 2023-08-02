@@ -69,4 +69,6 @@ Load Balance
 
 https://www.youtube.com/watch?v=6zht4PYw5KY
 
+Cloud Armor
 
+https://drive.google.com/file/d/1mnHRtGRz0R-nWzGi-VEDNhLk0T_T5Mi8/view?usp=sharing
