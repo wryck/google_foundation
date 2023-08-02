@@ -62,3 +62,10 @@ https://oportunidades.sp.senai.br
 
 E-mail Suporte  --  support@qwiklabs.com
 
+
+
+
+Load Balance
+
+https://www.youtube.com/watch?v=6zht4PYw5KY
+
