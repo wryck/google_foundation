@@ -62,18 +62,4 @@ https://oportunidades.sp.senai.br
 
 E-mail Suporte  --  support@qwiklabs.com
 
-Balanceador
-
-export REGION=
-
-export ZONE_1=
-
-export ZONE_2=
-
-
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/July%20updated%20Create%20an%20Internal%20Load%20Balancer/quicklabgsp216.sh
-
-sudo chmod +x quicklabgsp216.sh
-
-./quicklabgsp216.sh
-
+4 - https://github.com/wryck/desafio04/blob/main/README.md?plain=1
