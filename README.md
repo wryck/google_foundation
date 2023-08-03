@@ -63,3 +63,6 @@ https://oportunidades.sp.senai.br
 E-mail Suporte  --  support@qwiklabs.com
 
 4 - https://github.com/wryck/desafio04/blob/main/README.md?plain=1
+
+
+https://github.com/quiccklabs/Labs_solutions/blob/ded2ba9600f019376a1f4b2d99e51828d217b7f3/%5B2023%5D%20Create%20and%20Manage%20Cloud%20Resources%3A%20Challenge%20Lab
