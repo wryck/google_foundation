@@ -68,3 +68,20 @@ E-mail Suporte  --  support@qwiklabs.com
 Trilha IA Temporária
 
 https://drive.google.com/file/d/1S042hXNjkLH9X2ipefjznMeJArco0jzZ/view?usp=sharing
+
+
+
+
+export REGION=
+
+export ZONE_1=
+
+export ZONE_2=
+
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/July%20updated%20Create%20an%20Internal%20Load%20Balancer/quicklabgsp216.sh
+
+sudo chmod +x quicklabgsp216.sh
+
+./quicklabgsp216.sh
+
