@@ -66,3 +66,6 @@ E-mail Suporte  --  support@qwiklabs.com
 
 
 https://github.com/quiccklabs/Labs_solutions/blob/ded2ba9600f019376a1f4b2d99e51828d217b7f3/%5B2023%5D%20Create%20and%20Manage%20Cloud%20Resources%3A%20Challenge%20Lab
+
+
+https://github.com/quiccklabs/Labs_solutions/blob/65576a98260b6c519b5ffcf8c22882b616ae7b1d/Perform%20Foundational%20Data,%20ML,%20and%20AI%20Tasks%20in%20Google%20Cloud:%20Challenge%20Lab%20%5BAPRIL%202023%5D
