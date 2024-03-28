@@ -14,11 +14,6 @@ link do skillboosts
 https://www.cloudskillsboost.google
 
 
-# Link para acessar o Curso - Fazer em casa:
-
-https://go.qwiklabs.com/gwg
-
-
 # Laboratórios para certifcação (badges)
 | Quest | Créditos | Link |
 | --- | --- | ---|
