@@ -8,13 +8,15 @@
 
 https://bit.ly/3zONCuK
 
+# NOVA TRILHA FOUNDATION - ABRIL/2024
+https://www.cloudskillsboost.google/paths/36
 
 link do skillboosts
 
 https://www.cloudskillsboost.google
 
 
-# Laboratórios para certifcação (badges)
+# DESCONTINUADO ****Laboratórios para certifcação (badges)
 | Quest | Créditos | Link |
 | --- | --- | ---|
 | 1 - Create and Manage Cloud Resources | (6 créditos) | https://www.cloudskillsboost.google/quests/120 |
