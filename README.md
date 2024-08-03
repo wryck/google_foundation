@@ -4,9 +4,6 @@
 # Google Cloud
 
 
-# Acessar Form para cadastro
-
-https://bit.ly/3zONCuK
 
 # NOVA TRILHA FOUNDATION - ABRIL/2024
 https://www.cloudskillsboost.google/paths/36
